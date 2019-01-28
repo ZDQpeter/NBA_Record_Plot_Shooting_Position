@@ -1,5 +1,5 @@
 # NBA_Record_Plot_Shooting_Location
-!. Use Instruction
+Use Instructions
   a) Put all .xlsx files into a created folder, named as "Data".
   b) Record and save shooting locations of a player
       - Select a player which you would like to record his shooting positions
